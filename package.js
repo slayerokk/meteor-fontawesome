@@ -17,6 +17,6 @@ Package.onUse(function(api) {
         'fonts/fontawesome-webfont.svg',
         'fonts/fontawesome-webfont.ttf',
         'fonts/fontawesome-webfont.woff',
-        'fonts/fontawesome-webfont.woff2',
+        'fonts/fontawesome-webfont.woff2'
     ], 'client');
 });
